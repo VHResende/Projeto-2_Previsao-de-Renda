@@ -2,9 +2,9 @@
 **Victor Resende**
 _______________
 # Projeto-2_Previsao-de-Renda
-_______________
+
 ## Projeto 02_Ciência de Dados_Previsão de Renda
-_______________
+
 Projeto desenvolvido utilizando o Streamlit
 
 
